@@ -6,6 +6,7 @@ const kCustomGreen3= Color(0xff285F43);
 const kCustomGreen4= Color(0xff5AAE8A);
 const kCustomGreen5= Color(0xffDDF1E9);
 const kBackground= Color(0xffF5F5F5);
+const kAppbarIconColor = Color(0xff2E2D38);
 
 
 
